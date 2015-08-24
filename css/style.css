@@ -1,0 +1,48 @@
+body{
+  padding: 0;
+  width: 100%;
+}
+.container-fluid{
+  width: 100%;
+  padding: 0;
+}
+.navbar{
+  padding: 0px 10px 0px 10px;
+}
+.navbar-header{
+  padding-right: 40px;
+}
+#logo{
+  font-size: 30px;
+}
+#main{
+  height: 830px;
+  padding: 90px 0px 0px 0px;
+  background-image: url("../img/food-dinner-grilled-shashlik.jpg");
+  color: white;
+  text-align: center;
+}
+#main h1{
+  font-size: 50px;
+  text-transform: uppercase;
+}
+#main p{
+  font-size: 20px;
+}
+#reservation{
+  padding-top: 18px;
+}
+#about{
+  height: 780px;
+  width: 100%;
+  padding: 20px 0 0 10px;
+  display: inline-block;
+  background: #FFFFFF;
+}
+#menu{
+  height: 780px;
+  width: 100%;
+  padding: 20px 0 0 10px;
+  display: inline-block;
+  background: #FFA26F;
+}
